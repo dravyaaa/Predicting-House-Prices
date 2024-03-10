@@ -1,4 +1,4 @@
-# Predicting-Philadelphia-House-Prices
+# Predicting-House-Prices
 ## 1. Data Collection
 
 For this project, I collected data from the Philadelphia Open Portal, a comprehensive repository of public datasets maintained by the city of Philadelphia. The dataset I used for this project is titled "properties_public.csv." This dataset contains detailed information about properties in Philadelphia, including their characteristics such as location, size, number of bedrooms and bathrooms, number of stories, interior and exterior conditions, sale date, sale price, and market value. It is important to note that the dataset comprises over 5000 records, ensuring an adequate amount of training data for model development.
